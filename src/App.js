@@ -77,7 +77,7 @@ class App extends Component {
           />
           <main id="main-doc">
 
-            <h1>{ this.appName }  <small>v{ this.appVersion }</small></h1>
+            <h1>{ this.appName }  <small>{ this.appVersion }</small></h1>
             
             <Section name={ this.sections[0].name } ref={ this.sections[0].ref } >
               <p>React Countdown Component is a tiny, easy and customizable component providing you with 
