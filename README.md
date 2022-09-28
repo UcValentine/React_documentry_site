@@ -1,5 +1,5 @@
 
-I hosted this project on AWS: https://master.dfsmb0rqvp7h5.amplifyapp.com/
+live at https://ucvalentine.github.io/Documentry-page/
 -------------------------------------------
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
